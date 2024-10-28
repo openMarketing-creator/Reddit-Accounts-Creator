@@ -1,0 +1,38 @@
+🔥 Reddit Account Creator Tool 🔥
+Automate the Creation of Multiple Reddit Accounts with Ease!
+
+Our Reddit Account Creator Tool helps you automate the process of creating Reddit accounts with ease. This tool is designed to streamline the account creation process, solve captchas, and handle proxy setups, all while allowing you to manage multiple accounts effortlessly.
+
+🚀 Features
+Automated Account Creation: Create Reddit accounts in bulk using our powerful automation tool.
+2Captcha Integration: Automatically solve captchas to keep the process running smoothly.
+Proxy Support: Use multiple proxies to prevent rate limits and bypass restrictions.
+Customizable Configurations: Modify key settings (like headless mode, number of browsers, delay time) directly from a .env file.
+Error Logging: Detailed logs to keep track of account creation progress and issues.
+Account Management: Save the created accounts with username, password, and cookies for easy use later.
+
+💼 Perfect for:
+Reddit marketers: Build up a large number of accounts to drive traffic, upvote, or engage with posts.
+Social media managers: Manage multiple Reddit accounts for your clients without the hassle.
+Bot developers: Integrate Reddit account creation into your automation systems easily.
+
+📦 What You Get:
+Full source code and instructions for setup.
+Ongoing updates to ensure compatibility with Reddit.
+Dedicated support to help you with installation and troubleshooting.
+
+🔧 Requirements:
+Node.js
+Puppeteer or multilogin browser (depending on the preferred setup)
+2Captcha API key
+Proxies for multi-account creation
+
+💬 How to Get Started
+
+Configure the .env file to set up your environment variables (2Captcha key, proxies, number of accounts to create, etc.).
+Run the tool and let it automate the account creation process for you!
+
+📲 Contact
+Interested in purchasing or learning more about the tool?
+Contact me on Telegram: https://t.me/Itisnotmey
+
